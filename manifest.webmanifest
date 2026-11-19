@@ -1,0 +1,17 @@
+{
+  "id": "/app-deeva/",
+  "name": "App Deeva",
+  "short_name": "App Deeva",
+  "description": "Le app di Deeva per ambassador e buddy, tutte in un posto.",
+  "lang": "it",
+  "start_url": "/app-deeva/",
+  "scope": "/app-deeva/",
+  "display": "standalone",
+  "background_color": "#FFF7EC",
+  "theme_color": "#FF5740",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
